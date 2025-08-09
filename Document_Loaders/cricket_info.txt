@@ -1,0 +1,16 @@
+Cricket is a bat-and-ball game played between two teams of eleven players each. 
+It originated in England and is now popular worldwide, especially in countries like India, Australia, 
+England, Pakistan, and South Africa.
+
+The game is played on a circular or oval field, with a 22-yard pitch at the center. 
+Each team takes turns batting and bowling/fielding. 
+The batting side aims to score runs, while the bowling/fielding side tries to dismiss the batsmen.
+
+There are different formats of cricket:
+1. Test Cricket – The longest format, lasting up to 5 days.
+2. One Day Internationals (ODIs) – Each team faces a fixed number of overs, usually 50.
+3. Twenty20 (T20) – A shorter format with 20 overs per side.
+
+Famous cricketers include Sachin Tendulkar, Virat Kohli, Don Bradman, M.S. Dhoni, and Brian Lara.
+
+Cricket is known not just for its competition but also for its spirit of sportsmanship and tradition.
